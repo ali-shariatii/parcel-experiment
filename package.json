@@ -1,0 +1,25 @@
+{
+  "name": "parcel-experiment",
+  "version": "1.0.0",
+  "description": "An experimental project for practicing Parcel & NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-shariatii/parcel-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali-shariatii/parcel-experiment/issues"
+  },
+  "homepage": "https://github.com/ali-shariatii/parcel-experiment#readme",
+  "dependencies": {
+    "core-js": "^3.8.2",
+    "date-fns": "^2.16.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
